@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "84455ea2-12b4-4265-a9b9-93508f25f56b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "pic_mycars": {
+      "ver": "1.0.3",
+      "uuid": "a295344a-c8eb-4002-b543-fc4e88e6f8a7",
+      "rawTextureUuid": "84455ea2-12b4-4265-a9b9-93508f25f56b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 153,
+      "height": 152,
+      "rawWidth": 153,
+      "rawHeight": 152,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
