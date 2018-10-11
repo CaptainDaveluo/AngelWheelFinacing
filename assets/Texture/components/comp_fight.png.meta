@@ -1,14 +1,14 @@
 {
   "ver": "1.0.0",
-  "uuid": "4c1a120c-55a8-41d1-b417-b52c9d5ae50f",
+  "uuid": "bea0162e-0b33-47d7-ba2f-aacbf981f4ae",
   "type": "sprite",
   "wrapMode": "clamp",
   "filterMode": "bilinear",
   "subMetas": {
-    "bg_office1": {
+    "comp_fight": {
       "ver": "1.0.3",
-      "uuid": "bec7e352-4d79-4afb-a2a1-edbf0349d7ad",
-      "rawTextureUuid": "4c1a120c-55a8-41d1-b417-b52c9d5ae50f",
+      "uuid": "3d7ba2da-7317-4bf0-a472-dbb6f2e09278",
+      "rawTextureUuid": "bea0162e-0b33-47d7-ba2f-aacbf981f4ae",
       "trimType": "auto",
       "trimThreshold": 1,
       "rotated": false,
@@ -16,10 +16,10 @@
       "offsetY": 0,
       "trimX": 0,
       "trimY": 0,
-      "width": 281,
-      "height": 479,
-      "rawWidth": 281,
-      "rawHeight": 479,
+      "width": 84,
+      "height": 78,
+      "rawWidth": 84,
+      "rawHeight": 78,
       "borderTop": 0,
       "borderBottom": 0,
       "borderLeft": 0,
